@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-	float x, y;
+	float x;
+	float y;
 	setlocale(LC_ALL, "Russian");
 	cout << " Введите вес в граммах ";
 	cin >> x;
